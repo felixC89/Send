@@ -1,0 +1,6 @@
+projectKey=PRUEBASONAR
+serverUrl=http://localhost:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://localhost:9000/dashboard?id=PRUEBASONAR
+ceTaskId=AY2PmNcjBytLrIKM0ULo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY2PmNcjBytLrIKM0ULo

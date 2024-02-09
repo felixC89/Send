@@ -1,0 +1,1 @@
+C:\Users\Felix\source\repos\RabbitMQ\Send\.sonarqube\out\0
